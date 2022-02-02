@@ -1,0 +1,8 @@
+8
+4
+2
+2
+1
+sort -nr 11.sh  >sortedargs.txt
+0
+
